@@ -1,0 +1,23 @@
+h1
+{
+	font-family:cursive;
+}
+
+h2
+{
+	font-size: 25px;
+}
+
+div > a
+{
+	position:relative;
+	margin-left:190px;
+	top:-29px;
+
+}
+
+#msgtext{
+	
+	font-weight:bold;
+	color:red;
+}

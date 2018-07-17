@@ -1,0 +1,72 @@
+h1
+{
+	
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+	text-align:left;
+	border-radius:5px;
+	font-family:comic;
+}
+
+h2
+{
+  color:white;
+}
+
+
+div.caixa
+{
+
+  width: 100px; height: 100px;
+  position: relative; float: left;
+  border-radius:10px;
+  color: white;
+  text-align:center;
+
+}
+
+div#nome
+{
+  background-color: rgb(128,0,0);
+  border: solid white;
+  
+}
+
+div#idade
+{
+  background-color: rgb(128,0,0);
+  border: solid white;
+}
+
+div#imc
+{
+  background-color: rgb(139,0,0);
+  border: solid white;
+}
+
+div#peso
+
+{
+  background-color: rgb(139,0,0);
+  border: solid white;
+}
+div#calorias
+
+{
+  background-color: rgb(178,34,34);
+  border: solid white;
+}
+
+div#pressao
+
+{
+  background-color: rgb(178,34,34);
+  border: solid white;
+}
+
+div#myCarousel
+{
+	top:290px;
+	margin-left:150px;
+	width:500px;
+}

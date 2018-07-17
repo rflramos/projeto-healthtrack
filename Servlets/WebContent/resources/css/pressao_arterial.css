@@ -1,0 +1,18 @@
+table{
+	
+	width:100%;
+}
+
+th{
+	background-color:black;
+	color:white;
+
+}
+
+#sistolica{
+	width:25%;
+}
+
+#botao{
+	width:10%;
+}

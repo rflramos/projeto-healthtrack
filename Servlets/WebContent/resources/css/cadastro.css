@@ -1,0 +1,18 @@
+.vermelho{
+	
+	border-color:red;
+}
+
+.white{
+	background-color:white;
+}
+
+p{
+	font-weight:bold;
+	color:red;
+}
+#msgtext{
+
+	font-weight:bold;
+	color:red;
+}

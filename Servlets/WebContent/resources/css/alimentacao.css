@@ -1,0 +1,13 @@
+.col-md-12{
+	position:relative;
+	>margin-top:50px;
+}
+
+#botao{
+	width:10%;
+}
+
+thead{
+	background-color:black;
+	color:white;
+}
